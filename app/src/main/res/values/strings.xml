@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proiect facultati</string>
+    <string name="detalii_universitate_activity_label">Detalii facultate</string>
+    <string name="denumire_facultate">Denumire facultate: %1$s</string>
+    <string name="adresa">Adresa: %1$s</string>
+    <string name="an_fondare">Anul fondarii: %1$s</string>
+    <string name="buton_inapoi">Inapoi</string>
+</resources>

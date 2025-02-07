@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetaliiUniversitateActivity">
+
+    <TextView
+        android:id="@+id/numeUniversitate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Denumire facultate"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="16dp"/>
+
+    <TextView
+        android:id="@+id/adresaUniversitate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Adresa facultate"
+        android:textSize="20sp"
+        android:layout_below="@id/numeUniversitate"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="16dp"/>
+
+    <TextView
+        android:id="@+id/anFondareUniversitate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anul fondarii"
+        android:textSize="20sp"
+        android:layout_below="@id/adresaUniversitate"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/buton_inapoi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Inapoi"
+        android:layout_below="@id/anFondareUniversitate"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

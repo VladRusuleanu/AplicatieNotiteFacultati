@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<universitati>
+    <universitate nume="Cibernetică, Statistică și Informatică Economică" adresa="Calea Dorobanți nr. 15-17, sector 1, București, cod poștal 010552" anulFondarii="1965" />
+    <universitate nume="Administrarea Afacerilor, cu predare în limbi străine" adresa="Str. Căderea Bastiliei nr. 2-10, sector 1, București, cod poștal 010374" anulFondarii="1991" />
+    <universitate nume="Business și Turism" adresa="Str. Tache Ionescu nr.11, sector 1, București, cod poștal 010352" anulFondarii="1996" />
+    <universitate nume="Administrație și Management Public" adresa="Str. Căderea Bastiliei nr. 2-10, sector 1, București, cod poștal 010374" anulFondarii="2000" />
+    <universitate nume="Contabilitate și Informatică de Gestiune" adresa="Str. Căderera Bastiliei nr. 2-10, sector 1, București, cod poștal 010374" anulFondarii="1990" />
+    <universitate nume="Drept" adresa="Piața Romană nr. 6, sector 1, București, cod poștal 010374" anulFondarii="1913" />
+    <universitate nume="Economie Teoretică și Aplicată" adresa="Calea Dorobanți nr. 15-17, sector 1, București, cod poștal 010552" anulFondarii="2006" />
+    <universitate nume="Economie Agroalimentară și a Mediului" adresa="Str. Mihail Moxa nr. 5-7, sector 1, București, cod poștal 010961" anulFondarii="1990" />
+    <universitate nume="Finanțe, Asigurări, Bănci și Burse de Valori" adresa="Str. Mihail Moxa nr. 5-7, sector 1, București, cod poștal 010961" anulFondarii="1992" />
+    <universitate nume="Management" adresa="Str. Căderea Bastiliei nr. 2-10, sector 1, București, cod postal 010374" anulFondarii="1993" />
+    <universitate nume="Marketing" adresa="Str. Occidentului nr. 7, sector 1, București, cod poștal 010981" anulFondarii="2006" />
+    <universitate nume="Relații Economice Internaționale" adresa="Str. Tache Ionescu nr. 11, sector 1, București, cod poștal 010352" anulFondarii="1992" />
+    <universitate nume="Bucharest Business School" adresa="Calea Griviței nr. 2-2A, sector 1, București, cod poștal 010731" anulFondarii="2013" />
+</universitati>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/optiune_1"
+        android:title="Inserare observatii"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/optiune_2"
+        android:title="Lista observatii"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/optiune_3"
+        android:title="Credits"
+        app:showAsAction="never" />
+
+</menu>
